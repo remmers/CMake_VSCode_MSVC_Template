@@ -1,0 +1,1 @@
+# CMake_VSCode_MSVC_Template
